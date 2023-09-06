@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/pages/customer_registration.dart';
-import 'package:flutter_application_1/pages/vehicel_form.dart';
+import 'package:test/pages/customer_registration.dart';
+import 'package:test/pages/vehicel_form.dart';
 
 class SelectScreen extends StatelessWidget {
   const SelectScreen({super.key});

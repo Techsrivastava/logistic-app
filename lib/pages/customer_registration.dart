@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/pages/BookingFilterPage.dart';
+
+import 'package:test/pages/BookingFilterPage.dart';
 
 class CustomerRegistrationForm extends StatefulWidget {
   const CustomerRegistrationForm({Key? key}) : super(key: key);

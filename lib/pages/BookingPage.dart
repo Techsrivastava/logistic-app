@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/pages/calendor_page.dart';
+
+import 'package:test/pages/calendor_page.dart';
 
 void main() {
   runApp(MaterialApp(
